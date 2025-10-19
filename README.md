@@ -1,4 +1,4 @@
-## 💻 Software Development and Usage
+## Software Development and Usage
 
 While the underlying code for several of my projects is proprietary, the methods and published outcomes are fully documented.  
 Below are representative examples where my software and modeling work has been deployed or cited in real-world systems.
